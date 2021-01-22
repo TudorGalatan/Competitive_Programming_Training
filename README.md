@@ -13,6 +13,8 @@ This repository consists of the solutions to the programming problems solved by 
 
 ## Number of Solved Problems
 
+The counting started on Thursday, the 21<sup>st</sup> of January, 2021.
+
 - Codeforces:
   - 1 problem
 - Pbinfo:
