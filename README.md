@@ -10,6 +10,8 @@ This repository consists of the solutions to the programming problems solved by 
 - Pbinfo
   - [Website](https://www.pbinfo.ro/)
   - [Personal Profile](https://www.pbinfo.ro/profil/tudorgalatan)
+- Prinfo
+  - [Website](https://probleme.programarecurabdare.ro/)
 
 ## Number of Solved Problems
 
@@ -19,5 +21,7 @@ The counting started on Thursday, the 21<sup>st</sup> of January, 2021.
   - 1 problem
 - Pbinfo:
   - 14 problems
+- Prinfo:
+  - 3 problems
 - Total:
-  - 15 problems
+  - 18 problems
